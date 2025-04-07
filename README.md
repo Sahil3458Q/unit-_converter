@@ -5,7 +5,7 @@
 ### 🔧 What it does:
 - Convert Kilometers to Miles
 - Convert Celsius to Fahrenheit
-- Convert Grams to Kilograms
+- Convert kilometer to lb 
 
 ### 💡 Technologies:
 - C Language
